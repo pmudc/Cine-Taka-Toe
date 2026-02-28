@@ -49,7 +49,12 @@ Cuando eliges una película:
    - Década (año de estreno)  
 3. Si cumple fila + columna, se coloca la película en la casilla.
 
-Nota sobre licencia TMDB: tras revisar el GitHub de TMDB, no hemos encontrado ninguna licencia, por lo que nuestro proyecto es totalmente independiente y no está limitado por TMDB. Además, queremos que nuestro proyecto sea totalmente libre y que cualquiera pueda utilizarlo.
+Nota sobre licencia TMDB: tras revisar el GitHub de TMDB, no hemos encontrado ninguna licencia. Sin embargo, debemos recalcar que este producto utiliza la API de TMDB, pero no está respaldado ni certificado por TMDB.  
+Adjuntamos el texto recomendado por TMDB:
+> “This product uses the TMDB API but is not endorsed or certified by TMDB.” [1](https://github.blog/developer-skills/github/publish-your-project-documentation-with-github-pages/)[2](https://docs.github.com/pages)
+Además, TMDB requiere seguir sus reglas de logos/atribución en una sección tipo “About/Credits”.(https://joeldare.com/deploying-a-github-pages-site-from-www)[2](https://docs.github.com/pages)
+> 
+Por nuestra parte, queremos que nuestro proyecto sea totalmente libre y que cualquiera pueda utilizarlo.
 
 Nota sobre la API Key: para conseguir la API Key que debes colocar en el codigo en app.js, simplemente creamos una cuenta en TMDB, y en ajustes buscamos la opción que nos permite solicitar la API Key v3.
 ---
