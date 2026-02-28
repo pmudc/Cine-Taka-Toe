@@ -60,3 +60,8 @@ Nosotros escogimos utilizar Live Server en Visual Studio Code:
 1. Abre la carpeta del proyecto en VSCode
 2. Click derecho en `index.html` → **Open with Live Server**
 3. Se abre en el navegador y ya puedes jugar
+
+Contacto: (estaremos encantados de resolver cualquier consulta o propuesta)
+cinetakatoe@proton.me
+pablo.muradas@udc.es
+gonzalo.simon.lopez@udc.es
